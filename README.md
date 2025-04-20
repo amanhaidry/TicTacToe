@@ -12,3 +12,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 ## Screenshot
 
 ![Tic-Tac-Toe Screenshot](screenshot/Screenshot.png)
+
+## Play Game
+
+Check out the live version of the game here: [Tic-Tac-Toe Game](https://amanhaidry.github.io/TicTacToe/)
